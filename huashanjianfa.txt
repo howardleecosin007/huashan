@@ -3,3 +3,4 @@ huashanjianfa
 
 all
 add clone from my
+add clone from huashan_clone folder
